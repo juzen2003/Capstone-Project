@@ -1,6 +1,7 @@
 # Fibonacci Sequence
 # Dave Chang
 # 2016/06/30
+# It would generate fibonacci sequence up to the number provided by the user.
 
 # generator for fibonacci sequence
 def fibonacciGen(number):
