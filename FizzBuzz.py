@@ -1,4 +1,4 @@
-# Fibonacci Sequence
+# FizzBuzz
 # Dave Chang
 # 2016/07/02
 # Print 1 to 100
